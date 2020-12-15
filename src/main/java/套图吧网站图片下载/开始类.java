@@ -7,7 +7,7 @@ public class 开始类 {
         //
         long a1= System.currentTimeMillis();
         //首先输入首页，获取首页信息
-        String 首页="https://www.192te.com/gq/dm/cosplay370.html";
+        String 首页="https://www.192te.com/gq/xiuren/xiuren2621.html";
         String 首页信息= 静态方法.访问网页(首页);
         //建立获取图集名称，图集名称,图片总数
         String 图集名称和图片总数= 首页信息.substring(首页信息.indexOf("<title>")+7,首页信息.indexOf("</title>"));
