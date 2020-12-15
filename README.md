@@ -11,7 +11,7 @@
 #### 使用说明
 
 1.  https://www.192te.com/ 套图吧网站已经适配，示意页面https://www.192te.com/gc/bl/beautyleg2011.html
-2.  xxxx
+2.  https://www.nvshens.org/ 宅男女神网站已经适配，示意页面 https://www.nvshens.org/g/31826/
 3.  xxxx
 
 #### 参与贡献
