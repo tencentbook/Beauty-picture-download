@@ -35,7 +35,7 @@ public class 开始类 {
         }
         //统计总共下载时间
         Runtime.getRuntime().addShutdownHook(new Thread(()->
-                System.out.println(图集名称+"下载结束--共耗时--"+(System.currentTimeMillis()-a1)/1000+"秒")) );
+         System.out.println(图集名称+"下载结束--共耗时--"+(System.currentTimeMillis()-a1)/1000+"秒")) );
     }
 
 }

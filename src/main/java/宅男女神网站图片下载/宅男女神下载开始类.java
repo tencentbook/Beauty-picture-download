@@ -7,7 +7,7 @@ public class 宅男女神下载开始类 {
     public static void main(String[] args) throws InterruptedException {
         long a1= System.currentTimeMillis();
         //首先输入首页，获取首页信息
-        String 首页="https://www.nvshens.org/g/32458/";
+        String 首页="https://www.nvshens.org/g/32265/";
         首页 =  静态方法.访问网页(首页);
         String 图集名称=首页.substring(首页.indexOf("htilte")+8,首页.indexOf("</h1>")) ;
         String 图集页数=首页.substring(首页.indexOf("张照片")-4,首页.indexOf("张照片"));
