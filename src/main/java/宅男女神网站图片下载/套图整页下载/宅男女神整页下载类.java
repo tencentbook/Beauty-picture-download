@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class 宅男女神整页下载类 {
     public static void main(String[] args) throws InterruptedException {
         long a1= System.currentTimeMillis();
-        //首先输入首页，获取首页信息
+        //输入类似这样的首页即可遍历该页所有图集 https://www.nvshens.org/girl/19411/album/4.html
         String 相册首页="https://www.nvshens.org/girl/19411/album/4.html";
         相册首页 =  静态方法.访问网页(相册首页);
         String 第一段=相册首页;
